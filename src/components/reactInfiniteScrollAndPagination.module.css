@@ -1,0 +1,36 @@
+.wrapper {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  box-shadow: 0 0 4px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.2rem;
+}
+
+.card p {
+  margin: 0.3rem 0;
+  font-size: 0.95rem;
+}
+
+.button {
+  margin: 2rem auto;
+  display: block;
+  padding: 0.75rem 2rem;
+  background: #0070f3;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
